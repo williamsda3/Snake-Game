@@ -41,7 +41,7 @@
 
  let p2Input = document.getElementById("p2Input");
  let p2Select = document.getElementById("p2Select");
-
+//
  // maybe these can be moved.
  let p1Atk;
  let p2Atk;
